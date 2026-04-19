@@ -1,0 +1,15 @@
+{
+    "name": "paul/library",
+    "autoload": {
+        "psr-4": {
+            "Paul\\Library\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "minoche95",
+            "email": "minoche95@gmail.com"
+        }
+    ],
+    "require": {}
+}

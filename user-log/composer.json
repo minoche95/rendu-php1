@@ -1,0 +1,15 @@
+{
+    "name": "paul/user-log",
+    "autoload": {
+        "psr-4": {
+            "Paul\\UserLog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "minoche95",
+            "email": "minoche95@gmail.com"
+        }
+    ],
+    "require": {}
+}
